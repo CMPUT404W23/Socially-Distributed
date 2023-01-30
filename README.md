@@ -4,4 +4,4 @@
 
 - Marc-Andre Haley
 - Haoyu Zhang
-- 
+- Smit Patel
